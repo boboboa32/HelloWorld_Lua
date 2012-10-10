@@ -1,1 +1,2 @@
-print("Hello World!")
+local str = "Hello World!"
+print(str)
